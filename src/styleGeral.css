@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  background-image:url("https://cdn.awsli.com.br/600x450/118/118395/produto/18917728/a31d7b449c.jpg"); 
+}
+
+* {
+  margin: 0;
+  padding: 0px;
+}
+
+iframe {
+border:0;
+border-radius: 15px;
+text-align: center;
+padding: 0 20px;
+}
+
+h2 {
+  padding: 0 20px;
+}
+
+
+input {
+  color: darkslategray;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+/* 
+https://cdn.awsli.com.br/600x450/118/118395/produto/18917728/a31d7b449c.jpg
+http://d26lpennugtm8s.cloudfront.net/stores/335/332/products/papel-de-parede-nuvens-branca-fundo-azul-21-e843bc0a59fa7454fd15352957644259-640-0.jpg
+https://img.elo7.com.br/product/zoom/19E39B8/papel-de-parede-azul-claro-ambientes.jpg
+https://png.pngtree.com/thumb_back/fh260/back_pic/02/68/42/5957908fe6d9740.jpg
+cursor: pointer 
+*/

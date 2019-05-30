@@ -1,0 +1,32 @@
+button {
+padding: 10px;
+border-radius: 6px;
+border:0;
+background: orangered;
+margin: 0 5px;
+}
+
+button:hover {
+border-radius: 25%;
+background: orange;
+transition: 0.5s;
+
+}
+
+a {
+text-decoration: none;
+color: white;
+font-size: 15px;
+}
+
+a:hover {
+text-decoration: none;
+color: WHITE;
+}
+
+.Formulario {
+    align-content: center;
+    align-items: center;
+    padding-top: 5px;
+    text-align: center;
+}
